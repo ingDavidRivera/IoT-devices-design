@@ -1,3 +1,9 @@
+/***********************************************************************************************************
+*                                                                                                          *
+*  Firmware base para el Laboratorio #1 del curso Diseño de Dispositivos IoT de la Maestría en Ingeniería  *
+*                                                                                                          *
+***********************************************************************************************************/
+
 #include "RMaker.h"
 #include "WiFi.h"
 #include "WiFiProv.h"
